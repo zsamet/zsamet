@@ -65,3 +65,12 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+```mermaid
+graph TD;
+    A[Başlangıç] --> B{Karar 1};
+    B -->|Evet| C[İşlem 1];
+    B -->|Hayır| D[İşlem 2];
+    C --> E[Sonuç];
+    D --> E[Sonuç];
+
