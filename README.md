@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sametcevik1/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ceviksamet01@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
 
 
 ## Hakkımda 🧑‍💻
