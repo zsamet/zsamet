@@ -89,4 +89,5 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsamet&show_icons=true&theme=radical)
 
 
-![GitHub Skyline](https://github.com/zsamet/skyline.png)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zsamet&theme=react-dark)
+
