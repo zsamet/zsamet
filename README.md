@@ -5,7 +5,8 @@
 
 
 ## Hakkımda 🧑‍💻
-
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yönetim Bilişim Sistemleri öğrencisiyim. Bu alanlarda kendimi geliştirmek ve projelerimle katkıda bulunmak için çalışıyorum.
 
 ## Yetkinliklerim 🚀
@@ -63,8 +64,7 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
 
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsamet&show_icons=true&theme=radical)
 
