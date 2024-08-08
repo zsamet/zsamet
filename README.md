@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sametcevik1/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ceviksamet01@gmail.com)
-
+[![](https://visitcount.itsvg.in/api?id=zsamet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Hakkımda 🧑‍💻
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -87,14 +87,11 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 
 
-## 📊 GitHub İstatistiklerim:
+## GitHub İstatistiklerim 📊
 ![Trophy](https://github-profile-trophy.vercel.app/?username=zsamet&theme=darkhub)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsamet&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zsamet&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=zsamet&icon=0&color=0)](https://visitcount.itsvg.in)
 
