@@ -34,6 +34,7 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 ## Eğitim 🎓
 
 - **Üniversite:** Uludağ Üniversitesi, Yönetim Bilişim Sistemleri (2022-2026)
+- **Türkiye Teknoloji Takımı:** Deneyap Atölyesi (2017-2020)
 
 ## Sertifikalar 📜
 
