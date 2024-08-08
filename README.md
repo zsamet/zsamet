@@ -3,8 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sametcevik1/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ceviksamet01@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
-
 
 ## Hakkımda 🧑‍💻
 
@@ -59,3 +57,8 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 - **[ChatGPT Asistan API Kullanımı](https://medium.com/@zsamet/chatgpt-asistan-api-kullanımı-2e93e6898a11)** - ChatGPT'nin yapay zeka modellerinin API aracılığı ile Python kullanılarak nasıl kullanılabileceği.
 
 
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zsamet&theme=darkhub)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
