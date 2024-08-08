@@ -67,6 +67,8 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 
 ### [Hızlı Haber Çeviri Botu](https://github.com/zsamet/haber-repo)
 Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak belirli sitelerde yayınlanan haberleri alarak Anadolu Ajansının haber yazım kurallarına bağlı bir şekilde Türkçe'ye çeviren bir sistemdir. 
+![GitHub stars](https://img.shields.io/github/stars/zsamet/haber-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zsamet/haber-repo?style=social)
 
 - **Teknolojiler:** ChatGPT-4, BeautifulSoup, MySQL
 - **Özellikler:** Web kazıma, API, Veri tabanı, Otomasyon
