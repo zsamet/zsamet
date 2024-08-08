@@ -15,13 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
-
-![Users](https://img.shields.io/badge/Users-1000+-blue?style=flat)
-![Downloads](https://img.shields.io/badge/Downloads-500K%2B-brightgreen?style=flat)
-
-
-
 Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yönetim Bilişim Sistemleri öğrencisiyim. Bu alanlarda kendimi geliştirmek ve projelerimle katkıda bulunmak için çalışıyorum.
 
 ## Yetkinliklerim 🚀
