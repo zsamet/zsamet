@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adınız]! 👋
+# Merhaba, Ben Samet Çevik! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sametcevik1/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ceviksamet01@gmail.com)
