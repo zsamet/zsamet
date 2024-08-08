@@ -15,4 +15,43 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 - **Veritabanları:** MySQL, SQLite
 - **Araçlar ve Teknolojiler:** GitHub, Jupyter Notebook, VSCode
 
+## İlgi Alanlarım 🌱
+
+- Yapay Zeka ve Makine Öğrenmesi
+- Büyük Veri ve Veri Analitiği
+- Web Geliştirme
+- Otomasyon Projeleri
+- Açık Kaynak Projeler
+
+## Hedeflerim 🎯
+
+- İleri seviye yapay zeka modelleri geliştirmek
+- Veri bilimi alanında uzmanlaşmak
+- Açık kaynak projelere katkıda bulunmak
+- Endüstriyle iş birliği yaparak gerçek dünya problemlerine çözümler üretmek
+- Teknoloji topluluklarında aktif rol almak
+
+## Eğitim 🎓
+
+- **Üniversite:** [Uludağ Üniversitesi], [Yönetim Bilişim Sistemleri] ([2022-2026])
+
+## Sertifikalar 📜
+
+- **[Medya Teknolojileri Hackayhon'u]** - [Anadolu Ajansı] - [Şubat 2024]
+- **[AWS ile Bulut Bilişim]** - [BTK Akademi] - [Kasım 2023]
+- **[Python for Machine Learning]** - [Global AI Hub] - [Mayıs 2023]
+- **[Python 101-201-301-401]** - [Turkcell Geleceği Yazanlar] - [Mart 2023]
+
+## Projeler 👨‍💻
+
+### [Hızlı Haber Çeviri Botu](https://github.com/kullaniciadi/proje-adi)
+Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak belirli sitelerde yayınlanan haberleri alarak Anadolu Ajansının haber yazım kurallarına bağlı bir şekilde Türkçe'ye çeviren bir sistemdir. 
+
+- **Teknolojiler:** ChatGPT-4, BeautifulSoup, MySQL
+- **Özellikler:** Web kazıma, API, Veri tabanı, Otomasyon
+
+## Blog Yazılarım 📝
+
+- **[ChatGPT Asistan API Kullanımı](https://medium.com/@zsamet/chatgpt-asistan-api-kullanımı-2e93e6898a11)** - ChatGPT'nin yapay zeka modellerinin API aracılığı ile Python kullanılarak nasıl kullanılabileceği.
+
 
