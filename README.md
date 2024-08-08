@@ -44,7 +44,7 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 
 ## Projeler 👨‍💻
 
-### [Hızlı Haber Çeviri Botu](https://github.com/kullaniciadi/proje-adi)
+### [Hızlı Haber Çeviri Botu](https://github.com/zsamet/haber-repo)
 Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak belirli sitelerde yayınlanan haberleri alarak Anadolu Ajansının haber yazım kurallarına bağlı bir şekilde Türkçe'ye çeviren bir sistemdir. 
 
 - **Teknolojiler:** ChatGPT-4, BeautifulSoup, MySQL
