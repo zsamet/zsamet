@@ -91,4 +91,5 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zsamet&color=blue)
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zsamet&theme=dark)
 
