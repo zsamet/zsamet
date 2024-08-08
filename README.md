@@ -63,4 +63,5 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsamet&layout=compact&theme=radical)
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
