@@ -17,9 +17,6 @@
 
 
 
-![GitHub stars](https://img.shields.io/github/stars/kullaniciadi/proje-adi?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kullaniciadi/proje-adi?style=social)
-
 ![Users](https://img.shields.io/badge/Users-1000+-blue?style=flat)
 ![Downloads](https://img.shields.io/badge/Downloads-500K%2B-brightgreen?style=flat)
 
@@ -67,6 +64,7 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 
 ### [Hızlı Haber Çeviri Botu](https://github.com/zsamet/haber-repo)
 Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak belirli sitelerde yayınlanan haberleri alarak Anadolu Ajansının haber yazım kurallarına bağlı bir şekilde Türkçe'ye çeviren bir sistemdir. 
+
 ![GitHub stars](https://img.shields.io/github/stars/zsamet/haber-repo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/zsamet/haber-repo?style=social)
 
