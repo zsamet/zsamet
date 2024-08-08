@@ -33,14 +33,14 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 
 ## Eğitim 🎓
 
-- **Üniversite:** [Uludağ Üniversitesi], [Yönetim Bilişim Sistemleri] ([2022-2026])
+- **Üniversite:** Uludağ Üniversitesi, Yönetim Bilişim Sistemleri (2022-2026)
 
 ## Sertifikalar 📜
 
-- **[Medya Teknolojileri Hackayhon'u]** - [Anadolu Ajansı] - [Şubat 2024]
-- **[AWS ile Bulut Bilişim]** - [BTK Akademi] - [Kasım 2023]
-- **[Python for Machine Learning]** - [Global AI Hub] - [Mayıs 2023]
-- **[Python 101-201-301-401]** - [Turkcell Geleceği Yazanlar] - [Mart 2023]
+- **Medya Teknolojileri Hackayhon'u** - Anadolu Ajansı - Şubat 2024
+- **AWS ile Bulut Bilişim** - BTK Akademi - Kasım 2023
+- **Python for Machine Learning** - Global AI Hub - Mayıs 2023
+- **Python 101-201-301-401** - Turkcell Geleceği Yazanlar - Mart 2023
 
 ## Projeler 👨‍💻
 
