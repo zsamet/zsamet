@@ -87,5 +87,5 @@ Bu proje, ChatGPT-4, BeautifulSoup, MySQL ve diğer teknolojileri kullanarak bel
 
 
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zsamet&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zsamet&theme=radical)
 
