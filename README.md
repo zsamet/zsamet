@@ -17,7 +17,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yönetim Bilişim Sistemleri öğrencisiyim. Bu alanlarda kendimi geliştirmek ve projelerimle katkıda bulunmak için çalışıyorum.
 
