@@ -8,11 +8,9 @@
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -29,7 +27,7 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 
 ## İlgi Alanlarım 🌱
 
-- Yapay Zeka ve Makine Öğrenmesi
+- Yapay Zeka, Makine Öğrenmesi
 - Büyük Veri ve Veri Analitiği
 - Web Geliştirme
 - Otomasyon Projeleri
@@ -46,7 +44,7 @@ Ben Samet Çevik, yapay zeka, otomasyon ve veri bilimi ile ilgilenen bir Yöneti
 ## Eğitim 🎓
 
 - **Üniversite:** Uludağ Üniversitesi, Yönetim Bilişim Sistemleri (2022-2026)
-- **Türkiye Teknoloji Takımı:** Deneyap Atölyesi (2017-2020)
+- **Türkiye Teknoloji Takımı(T3):** Deneyap Atölyesi (2017-2020)
 
 ## Sertifikalar 📜
 
